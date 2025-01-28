@@ -1,0 +1,17 @@
+version: "3.9"  # Adjust if using a different Docker Compose version
+
+services:
+  app:
+    build: .
+    ports:
+      - "5002:3000"
+    volumes:
+      - .:/app  # Mount current directory to container's /app for development changes
+      - /app/node_modules # <-- creates the node_modules in frontend path
+      - /app/.next
+    environment:
+      NODE_ENV: development  # Set environment variable for development mode
+
+volumes:
+  # Named volume for persisting node_modules (optional)
+  node_modules:

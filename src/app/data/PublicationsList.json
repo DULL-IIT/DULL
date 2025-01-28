@@ -1,0 +1,50 @@
+[
+    {
+      "title": "A Novel Word Pair-based Gaussian Sentence Similarity Algorithm For Bengali Extractive Text Summarization",
+      "authors": "Fahim Morshed, Md. Abdur Rahman, Sumon Ahmed",
+      "booktitle": "arXiv preprint",
+      "year": 2024,
+      "domain_id": "NLP",
+      "type": "Journal",
+      "pdf": "https://arxiv.org/pdf/2411.17181",
+      "url": "https://arxiv.org/abs/2411.17181",
+      "doi": "https://doi.org/10.48550/arXiv.2411.17181",
+      "code_link": null
+    },
+    {
+      "title": "A Differential Evolution-based Pseudotime Estimation Method for Single-cell Data.",
+      "authors": "Nazifa Tasnim Hia, Ishrat Jahan Emu, Muhammad Ibrahim, Sumon Ahmed",
+      "booktitle": "International Journal of Advanced Computer Science & Applications, 2024, Vol 15, Issue 6, p1504",
+      "year": 2024,
+      "domain_id": "ESTIMATION theory; MACHINE learning; PATTERN recognition systems; GENE expression; DATA analysis",
+      "type": "Journal",
+      "pdf": null,
+      "url": "https://openurl.ebsco.com/EPDB%3Agcd%3A1%3A8279969/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A178397362&crl=c&link_origin=scholar.google.com",
+      "doi": "https://doi.org/10.14569/ijacsa.2024.01506150",
+      "code_link": null
+    },
+    {
+      "title": "Automatic cell type annotation using supervised classification: A systematic literature review",
+      "authors": "Nazifa Tasnim Hia, Sumon Ahmed",
+      "booktitle": "Systematic Literature Review and Meta-Analysis Journal Vol. 3 No. 3 (2022): September",
+      "year": 2022,
+      "domain_id": " PATTERN recognition systems,DATA analysis",
+      "type": "Journal",
+      "pdf": "http://slr-m.com/index.php/home/article/view/45/36",
+      "url": "http://slr-m.com/index.php/home/article/view/45",
+      "doi": "https://doi.org/10.54480/slrm.v3i3.45",
+      "code_link": null
+    },
+    {
+      "title": "Trajectory inference in single cell data: A systematic literature review",
+      "authors": "Ishrat Jahan Emu, Sumon Ahmed",
+      "booktitle": "Systematic Literature Review and Meta-Analysis Journal Vol. 3 No. 3 (2022): September pages 109-116",
+      "year": 2022,
+      "domain_id": " PATTERN recognition systems,DATA analysis",
+      "type": "Journal",
+      "pdf": "https://www.slr-m.com/index.php/home/article/view/46/37",
+      "url": "https://www.slr-m.com/index.php/home/article/view/46",
+      "doi": "https://doi.org/10.54480/slrm.v3i3.46",
+      "code_link": null
+    }
+]
