@@ -11,7 +11,7 @@
       "scholar": null,
       "linkedin": "linkedin.com/in/arahmanmukul",
       "domainOfInterest": "Software Engineering, NLP",
-      "image": "/members/file.jpg"
+      "image": "members/file.jpg"
     },
     {
       "name": "Mushfiqur Rahman",
@@ -25,7 +25,7 @@
       "scholar": null,
       "linkedin": "https://www.linkedin.com/in/mushfiqur-rahman41/",
       "domainOfInterest": "Software Engineering, NLP",
-      "image": "/members/galib.jpg"
+      "image": "members/galib.jpg"
     },
     {
       "name": "Nazifa Tasnim Hia",
@@ -40,7 +40,7 @@
       "scholar": "https://scholar.google.com/citations?user=JbYe_s4AAAAJ&hl=en",
       "linkedin": "https://www.linkedin.com/in/nazifa-tasnim-hia-59b7b8147/",
       "domainOfInterest": "Software Engineering, Bioinformatics",
-      "image": "/members/Nazifa-Tasnim-Hia-cse.jpg"
+      "image": "members/Nazifa-Tasnim-Hia-cse.jpg"
     },
     {
       "name": "Farhana Haque",
@@ -55,7 +55,7 @@
       "scholar": null, 
       "linkedin": "https://www.linkedin.com/in/farhana-haque1996",
       "domainOfInterest": "NLP, AI, ML",
-      "image": "/members/default-pic.jpg"
+      "image": "members/default-pic.jpg"
     },
     {
       "name": "Fahim Morshed",
@@ -69,7 +69,7 @@
       "scholar": "https://scholar.google.com/citations?user=Wq1yUxwAAAAJ",
       "linkedin":null,
       "domainOfInterest": "NLP, ML, AI",
-      "image": "/members/Fahim.jpeg"
+      "image": "members/Fahim.jpeg"
     },
     {
       "name": "Foysal Ahmed",
@@ -83,6 +83,6 @@
       "scholar": null,
       "linkedin": "https://www.linkedin.com/in/foysal-ahmed-sizan/",
       "domainOfInterest": "NLP, ML",
-      "image": "/members/Foysal.jpeg"
+      "image": "members/Foysal.jpeg"
     }
   ]

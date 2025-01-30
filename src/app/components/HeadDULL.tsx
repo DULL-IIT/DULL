@@ -9,7 +9,7 @@ export default function HeadDULL() {
       </h1>
       <div className="flex flex-col md:flex-row items-center justify-center my-12">
         <Image
-          src="/logos/sumonsir.jpg"
+          src="members/sumonsir.jpg"
           alt="head-dull"
           width={288}
           height={288}
@@ -41,7 +41,7 @@ export default function HeadDULL() {
               target="_blank"
             >
               <Image
-                src="/iitlogo.png"
+                src="iitlogo.png"
                 alt="profile"
                 width={40}
                 height={40}
@@ -53,7 +53,7 @@ export default function HeadDULL() {
               target="_blank"
             >
               <Image
-                src="/google-scholar-icon.png"
+                src="google-scholar-icon.png"
                 alt="profile"
                 width={40}
                 height={40}
