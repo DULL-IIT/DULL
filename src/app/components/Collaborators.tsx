@@ -14,7 +14,7 @@ export default function Collaborators() {
                     <div className="flex flex-wrap space-x-8 items-center justify-center">
                         <Image src="/logos/DU.png" className="h-12 md:h-16 w-auto mb-4" alt="Dhaka University" width={120} height={70} />
                         <Image src="/logos/BUBT.png" className="h-12 md:h-16 w-auto mb-4" alt="BUBT" width={100} height={70} />
-                        <Image src="/logos/ULAB.png" className="h-12 md:h-16 w-auto mb-4" alt="ULAB" width={100} height={70} />
+                        <Image src="/logos/ulab.png" className="h-12 md:h-16 w-auto mb-4" alt="ULAB" width={100} height={70} />
                     </div>
                 </div>
              
