@@ -14,20 +14,6 @@
       "image": "/members/file.jpg"
     },
     {
-      "name": "Mushfiqur Rahman",
-      "designation": "Lecturer",
-      "place": "BUBT",
-      "email": "bsse1130@iit.du.ac.bd",
-      "edu": ["Bachelor of Science in Software Engineering, Institute of Information Technology, University of Dhaka"],
-      "session": "2018-19",
-      "experience": ["Software Engineer, Mpower Social Enterprise"],
-      "profile": "https://portfolio-mushfiqurs-projects-0429e11d.vercel.app/",
-      "scholar": null,
-      "linkedin": "https://www.linkedin.com/in/mushfiqur-rahman41/",
-      "domainOfInterest": "Software Engineering, NLP",
-      "image": "/members/galib.jpg"
-    },
-    {
       "name": "Nazifa Tasnim Hia",
       "designation": "Lecturer",
       "place": "ULAB",
@@ -42,6 +28,21 @@
       "domainOfInterest": "Software Engineering, Bioinformatics",
       "image": "/members/Nazifa-Tasnim-Hia-cse.jpg"
     },
+    {
+      "name": "Mushfiqur Rahman",
+      "designation": "Lecturer",
+      "place": "BUBT",
+      "email": "bsse1130@iit.du.ac.bd",
+      "edu": ["Bachelor of Science in Software Engineering, Institute of Information Technology, University of Dhaka"],
+      "session": "2018-19",
+      "experience": ["Software Engineer, Mpower Social Enterprise"],
+      "profile": "https://portfolio-mushfiqurs-projects-0429e11d.vercel.app/",
+      "scholar": null,
+      "linkedin": "https://www.linkedin.com/in/mushfiqur-rahman41/",
+      "domainOfInterest": "Software Engineering, NLP",
+      "image": "/members/galib.jpg"
+    },
+ 
     {
       "name": "Farhana Haque",
       "designation": "Graduate Student",
