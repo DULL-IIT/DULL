@@ -1,4 +1,18 @@
 [
+  {
+    "name": "Dr. Sumon Ahmed",
+    "designation": "Chief Investigator",
+    "place": "University of Dhaka ",
+    "email": "sumon@iit.du.ac.bd",
+    "edu": [" BSc(DU), MSc(DU), PhD(The University of Manchester, UK)"],
+    "session": "2019",
+    "experience": null,
+    "profile": "http://www.iit.du.ac.bd/about_iit/individual_teacher/55",
+    "scholar": "https://scholar.google.com/citations?user=YxuS0wUAAAAJ&hl=en&oi=ao",
+    "linkedin": null,
+    "domainOfInterest": "Software Engineering, Bioinformatics",
+    "image": "/members/sumonsir.jpg"
+  },
     {
       "name": "Md. Abdur Rahman Mukul",
       "designation": "Principal Computer Scientist",
@@ -13,21 +27,7 @@
       "domainOfInterest": "Software Engineering, NLP",
       "image": "/members/file.jpg"
     },
-    {
-      "name": "Nazifa Tasnim Hia",
-      "designation": "Lecturer",
-      "place": "ULAB",
-      "email": "nazifa.tasnim@ulab.edu.bd",
-      "edu": ["Masters of Science in Software Engineering, Institute of Information Technology, University of Dhaka",
-      "Bachelor of Science in Software Engineering, Institute of Information Technology, University of Dhaka"],
-      "session": "2016-17",
-      "experience": ["Junior Software Engineer, Orion Informatics Ltd."],
-      "profile": null,
-      "scholar": "https://scholar.google.com/citations?user=JbYe_s4AAAAJ&hl=en",
-      "linkedin": "https://www.linkedin.com/in/nazifa-tasnim-hia-59b7b8147/",
-      "domainOfInterest": "Software Engineering, Bioinformatics",
-      "image": "/members/Nazifa-Tasnim-Hia-cse.jpg"
-    },
+  
     {
       "name": "Mushfiqur Rahman",
       "designation": "Lecturer",

@@ -16,7 +16,7 @@ function Home() {
         <Welcome />
         {/* <CarouselImage /> */}
         <DULLinfo />
-        <HeadDULL />
+        {/* <HeadDULL /> */}
         <Collaborators />
         <Contact />
       </div>
