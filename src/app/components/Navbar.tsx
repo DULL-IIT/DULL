@@ -34,7 +34,7 @@ export default function Navbar() {
   return (
     <div className="overflow-x-hidden">
         <div className="w-screen bg-primary h-10"></div>
-        <h1 className="bg-white text-primary px-12 md:px-32 py-5 font-title text-3xl md:text-4xl font-bold uppercase">DULL Research Group</h1>
+        <h1 className="bg-white text-primary px-12 md:px-32 py-5 font-title text-3xl md:text-4xl font-bold uppercase">DHAKA UNIVERSITY LIFE & LANGUAGE (DULL) Research Group</h1>
         <hr />
     <div className={header ? "fixed top-0 z-10 w-screen border-b-2" : "w-screen"}>
       <Disclosure as="nav" className="bg-white">

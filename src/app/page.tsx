@@ -13,7 +13,7 @@ function Home() {
   return (
     <div>
       <div className="overflow-x-hidden flex-grow">
-        <Welcome />
+        {/* <Welcome /> */}
         {/* <CarouselImage /> */}
         <DULLinfo />
         {/* <HeadDULL /> */}
